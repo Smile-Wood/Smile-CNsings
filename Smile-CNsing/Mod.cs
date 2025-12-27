@@ -1,5 +1,4 @@
-﻿using BridgeWE;
-using Colossal.IO.AssetDatabase;
+﻿using Colossal.IO.AssetDatabase;
 using Colossal.Logging;
 using Game;
 using Game.Modding;
@@ -10,9 +9,10 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using _BaseModule.WEBridge;
 using Colossal.Core;
 
-namespace _BaseModule
+namespace Smile
 {
     public class Mod : IMod
     {

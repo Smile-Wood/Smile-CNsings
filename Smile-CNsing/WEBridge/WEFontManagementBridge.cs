@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace BridgeWE
+namespace Smile
 {
     internal static class WEFontManagementBridge
     {
