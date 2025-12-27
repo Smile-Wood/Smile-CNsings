@@ -1,18 +1,18 @@
-﻿using Colossal.IO.AssetDatabase;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using Colossal.Core;
+using Colossal.IO.AssetDatabase;
 using Colossal.Logging;
 using Game;
 using Game.Modding;
 using Game.SceneFlow;
 using HarmonyLib;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using _BaseModule.WEBridge;
-using Colossal.Core;
+using SmileCNsing.WEBridge;
 
-namespace Smile
+namespace SmileCNsing
 {
     public class Mod : IMod
     {

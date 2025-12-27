@@ -2,7 +2,7 @@
 using System.Reflection;
 using UnityEngine;
 
-namespace Smile
+namespace SmileCNsing.WEBridge
 {
     public static class WEMeshManagementBridge
     {

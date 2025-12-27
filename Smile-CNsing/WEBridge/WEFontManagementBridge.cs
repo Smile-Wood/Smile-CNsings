@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Smile
+namespace SmileCNsing.WEBridge
 {
     internal static class WEFontManagementBridge
     {
